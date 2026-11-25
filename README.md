@@ -1,0 +1,2 @@
+# ERICS_SMARTBIN
+
